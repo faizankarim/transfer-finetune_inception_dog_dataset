@@ -1,0 +1,5 @@
+keras==2.3.1
+imutils==0.5.3
+opencv-python==4.2.0.32
+matplotlib==3.2.0
+scikit-learn==0.22.2
